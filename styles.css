@@ -13,11 +13,14 @@ html {
 
 body {
     font-family: "Outfit";
+    text-align: center;
+    background-color: hsl(212, 45%, 89%);
 }
 
 main {
     width: 500px;
     border: 1px solid black;
+    background-color: hsl(0, 0%, 100%);
 }
 
 main > div {
@@ -27,4 +30,12 @@ main > div {
 main > img {
     padding: 15px;
     width: 100%;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
 }
