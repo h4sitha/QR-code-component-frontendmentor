@@ -34,7 +34,7 @@ main > div {
 }
 
 main > img {
-    padding: 15px 15px 0 15px;
+    padding: 15px;
     width: 100%;
     border-radius: 25px;
 }
@@ -46,5 +46,5 @@ p {
 h1 {
     color: hsl(218, 44%, 22%);
     font-size: 1.45rem;
-    margin: 15px 0;
+    margin: 0 0 15px 0;
 }
