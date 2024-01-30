@@ -13,6 +13,7 @@ body {
 
 main {
     width: 500px;
+    border: 1px solid black;
 }
 
 main > div {
