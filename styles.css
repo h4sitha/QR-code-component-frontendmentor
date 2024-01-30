@@ -3,7 +3,7 @@
 * {
     margin: 0;
     padding: 0;
-    border: 1px solid greenyellow;
+    /* border: 1px solid greenyellow; */
     box-sizing: border-box;
 }
 
@@ -17,4 +17,9 @@ main {
 
 main > div {
     padding: 0 20px 20px 20px;
+}
+
+main > img {
+    padding: 15px;
+    width: 100%;
 }
